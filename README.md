@@ -1,5 +1,5 @@
 # Predicting Guiding Entities for Document Ranking
-This repositiory contains data and code for document ranking based on method described in: Shubham Chatterjee and Laura Dietz. 2022. [Predicting Guiding Entities for Entity Aspect Linking](https://www.dcs.gla.ac.uk/~shubham/publications/pdf/cikm2022.pdf). [[Code and Data]](https://github.com/shubham526/CIKM2022-EAL)
+This repositiory contains data and code for document ranking based on method described in the paper: Shubham Chatterjee and Laura Dietz. 2022. [Predicting Guiding Entities for Entity Aspect Linking](https://www.dcs.gla.ac.uk/~shubham/publications/pdf/cikm2022.pdf). The code and data for this paper can be found [here](https://github.com/shubham526/CIKM2022-EAL).
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
