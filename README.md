@@ -12,3 +12,12 @@ All data associated with this work is licensed and released under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+## 1. Downloads
+| Resource | Comments |
+|:--------|:-------------|
+| [CODEC and Robust Data](https://gla-my.sharepoint.com/:u:/g/personal/shubham_chatterjee_glasgow_ac_uk/EeRk4TjhhrBCr7C7lnCsEOwBofSubvN8zoGpUqP-93iGVg?e=SMDmY6) | Queries, ground truth, and runs.|
+| [Entity Metadata](https://gla-my.sharepoint.com/:u:/g/personal/shubham_chatterjee_glasgow_ac_uk/Ec2X4GwOAS5EgJ5am56V4dkBxbuPGB4M9f4xJvCt7dazUg?e=P36oDB) | Metadata for entities.|
+| [Folds for CODEC](https://gla-my.sharepoint.com/:u:/g/personal/shubham_chatterjee_glasgow_ac_uk/EaxEBZHvwehPkBaIOR2ktDABPspIAeu9Y26oDKu6Q6yn-g?e=vTedYm)| CODEC queries divided into 5-folds for CV.|
+| [Folds for Robust04](https://gla-my.sharepoint.com/:u:/g/personal/shubham_chatterjee_glasgow_ac_uk/EcVTtfRMYH9LqHQmx9x985kBF8F81zmogGNYBBIkaBcRgA?e=GOGkch)| Robust04 queries divided into 5-folds for CV.|
+| [Fold-wise data for CODEC](https://gla-my.sharepoint.com/:u:/g/personal/shubham_chatterjee_glasgow_ac_uk/EbCHwUHiDz9DhbXabVPPU-cBDIdmMqQ9TrsyBF3Nn_b8Ww?e=uRgCUU)| Entity ranking data for CODEC split into 5-folds for CV.|
+| [Fold-wise data for Robust04](https://gla-my.sharepoint.com/:u:/g/personal/shubham_chatterjee_glasgow_ac_uk/EfzMO1iNXtVIumYpLLkwm5ABvAfJsUKNqTTYBBoexYUegQ?e=GnhGCG)| Entity ranking data for Robust04 split into 5-folds for CV.|
